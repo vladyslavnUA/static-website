@@ -1,0 +1,16 @@
+.work {
+    background-color: yellowgreen;
+}
+.skills {
+    background-color: aqua;
+}
+.about {
+    background-color: orange;
+}
+.education {
+    /*background-image: linear-gradient(pink, purple);*/
+    background-color: #5b7dec;
+}
+.references {
+    background-color: #e3bf7d;
+}
